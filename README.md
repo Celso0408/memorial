@@ -4,6 +4,6 @@ Este repositório contém uma coleção de documentos da vida acadêmica de Cels
 ## Documentos
 ### 📄 Academic Documents
 
-- [Monografia do Bacharelado em Física (UFAM) PDF]([memorial.pdf](https://github.com/Celso0408/memorial/blob/main/Monografia.pdf))
+- [Monografia do Bacharelado em Física (UFAM) PDF](https://github.com/Celso0408/memorial/blob/main/Monografia.pdf))
 - [Thesis PDF](documents/thesis.pdf)
 
